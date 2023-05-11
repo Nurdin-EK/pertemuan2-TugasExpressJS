@@ -1,0 +1,9 @@
+POST http://localhost:8080/biodata
+Content-Type: application/json
+
+{
+  "nama": "Nurdin",
+  "tempat_lahir": "Karawang",
+  "tanggal_lahir": "1996-09-01",
+  "alamat": "Klari Karawang"
+}
